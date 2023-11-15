@@ -1,0 +1,9 @@
+FIFA 21 messy, raw dataset for cleaning/ exploring
+https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring
+
+2021-Fifa Dataset
+https://www.kaggle.com/code/cameronriley/2021-fifa-dataset
+
+fifa21 dataset Challenge
+https://www.kaggle.com/code/chiomaosuji/fifa21-dataset-challenge
+
